@@ -1,0 +1,6 @@
+import graphviz
+from IPython.display import display
+
+with open("tree.dot") as f:
+    dot_graph = f.read()
+display(graphviz.Source(dot_graph))
