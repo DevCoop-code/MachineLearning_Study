@@ -11,6 +11,7 @@ Jupyter Notebook
 * mglearn
 * Numpy
 * SciPy
+* scikit-learn
 * matplotlib
 * IPython
 * pandas
